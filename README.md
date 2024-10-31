@@ -10,3 +10,4 @@ This code is a stock price prediction tool that uses an LSTM model to forecast s
 5. Plots and saves a comparison of actual vs. predicted prices.
 
 The output includes the RMSE and a plot showing the prediction results.
+![image](https://github.com/user-attachments/assets/145bba31-c991-4134-a0be-dbc7c3b03bb8)
